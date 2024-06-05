@@ -14,6 +14,7 @@ In 2024, the unique design performance specifications that we are working toward
 The R1 robot is currently undergoing clinical trials with selected views of the robot depicted below.
 
 ![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg?raw=true| width=100)
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg" align="left" height="48" width="48" ></a>
 ![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg?raw=true| width=100)
 ![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg?raw=true| width=100)
 ![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg?raw=true| width=100)
