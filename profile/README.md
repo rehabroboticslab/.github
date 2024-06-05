@@ -22,6 +22,8 @@ The R1 robot is currently undergoing clinical trials with selected views of the 
 <a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg" align="center"  width="500" ></a>
 </body>
 
+To view all of our [products and solutions](https://recuperorobotics.com/solutions)
+
 For further information please visit the [recupero website](https://recuperorobotics.com/)
 
 To contact the team please visit the [contact page](https://recuperorobotics.com/contact-us-1)
