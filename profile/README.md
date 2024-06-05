@@ -11,6 +11,14 @@ Recupero is developing a suite of wearable devices to improve capacity to manipu
 
 In 2024, the unique design performance specifications that we are working towards will allow users and therapists to comfortably expand function, Range of Motion exercises and tracking in comparison to the present standard-of-care. Recupero engineers and scientists have been working with Clinicians, younger and older adults to interface reconfigurable low profile wearable hand robots with smart games. Our devices are being devised to enable single and multi-digit movement and strengthening, as well as pinch, power and hook grips. 
 
+The R1 robot is currently undergoing clinical trials with selected views of the robot depicted below.
+
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg?raw=true)
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg?raw=true)
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg?raw=true)
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg?raw=true)
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.jpg?raw=true)
+
 For further information please visit the [recupero website](https://recuperorobotics.com/)
 
 To contact the team please visit the [contact page](https://recuperorobotics.com/contact-us-1)
