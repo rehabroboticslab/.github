@@ -15,11 +15,11 @@ The R1 robot is currently undergoing clinical trials with selected views of the 
 
 
 <body>
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg" align="left"  width="500" ></a>
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg" align="right"  width="500" ></a>
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png" align="center"  width="500" ></a>
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg" align="center"  width="500" ></a>
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg" align="center"  width="500" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg" align="center"  width="300" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg" align="center"  width="300" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png" align="center"  width="300" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg" align="center"  width="300" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg" align="center"  width="300" ></a>
 </body>
 
 To view all of our [products and solutions](https://recuperorobotics.com/solutions)
