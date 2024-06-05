@@ -13,13 +13,13 @@ In 2024, the unique design performance specifications that we are working toward
 
 The R1 robot is currently undergoing clinical trials with selected views of the robot depicted below.
 
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg" align="left"  width="200" ></a>
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg" align="center"  width="200" ></a>
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png" align="right"  width="200" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg" align="left"  width="500" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg" align="center"  width="500" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png" align="right"  width="500" ></a>
 
 
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg" align="center"  width="200" ></a>
-<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg" align="right"  width="200" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg" align="center"  width="500" ></a>
+<a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg" align="right"  width="500" ></a>
 
 For further information please visit the [recupero website](https://recuperorobotics.com/)
 
