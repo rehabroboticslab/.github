@@ -1,4 +1,4 @@
-# .github
+# RECUPERO ROBOTICS LLC
 ![alt text](https://github.com/Recupero-Robotics/.github/blob/main/RecuperoLogo.png?raw=true)
 
 Welcome to the main Recupero Robotics Github repository.
