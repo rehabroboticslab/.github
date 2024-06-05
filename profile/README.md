@@ -28,4 +28,4 @@ For further information please visit the [recupero website](https://recuperorobo
 
 To contact the team please visit the [contact page](https://recuperorobotics.com/contact-us-1)
 
-Visit our partners at [Rehab Robotics Lab](https://www.med.upenn.edu/rehabilitation-robotics-lab/),[EnAble Games](https://www.enablegames.com/),[GRASP Lab](https://www.grasp.upenn.edu/),[Pearlman School of Medicine](https://www.med.upenn.edu/),[National Institutes of Health](https://reporter.nih.gov/search/tKJluV7g-EGBw3QNEdVoPA/projects)
+Visit our partners at [Rehab Robotics Lab](https://www.med.upenn.edu/rehabilitation-robotics-lab/), [EnAble Games](https://www.enablegames.com/), [GRASP Lab](https://www.grasp.upenn.edu/), [Pearlman School of Medicine](https://www.med.upenn.edu/), [National Institutes of Health](https://reporter.nih.gov/search/tKJluV7g-EGBw3QNEdVoPA/projects)
