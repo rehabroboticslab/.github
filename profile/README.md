@@ -13,11 +13,11 @@ In 2024, the unique design performance specifications that we are working toward
 
 The R1 robot is currently undergoing clinical trials with selected views of the robot depicted below.
 
-![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg?raw=true)
-![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg?raw=true)
-![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg?raw=true)
-![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg?raw=true)
-![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png?raw=true)
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0003.jpg?raw=true| width=100)
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0004.jpg?raw=true| width=100)
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg?raw=true| width=100)
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0006.jpg?raw=true| width=100)
+![alt text](https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0007.png?raw=true| width=100)
 
 For further information please visit the [recupero website](https://recuperorobotics.com/)
 
