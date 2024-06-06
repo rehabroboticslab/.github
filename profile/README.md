@@ -22,7 +22,7 @@ The R1 robot is currently undergoing clinical trials with selected views of the 
 <a href="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg"><img src="https://github.com/Recupero-Robotics/.github/blob/main/IMG-20240605-WA0005.jpg" align="center"  width="300" ></a>
 </body>
 
-To learn more about the ongoing [clinical trial](https://classic.clinicaltrials.gov/ct2/show/NCT05542121) of the R1 Robot under the Rehab CARES program 
+To learn more about the ongoing [clinical trial](https://www.clinicaltrials.gov/study/NCT05542121) of the R1 Robot under the Rehab CARES program 
 
 To view all of our [products and solutions](https://recuperorobotics.com/solutions)
 
